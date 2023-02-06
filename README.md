@@ -18,4 +18,10 @@ How to run
 - node soal1.js
 - node soal1.js
 
-Link recording running program : 
+
+Expected Result :
+- soal1.js
+
+
+
+- soal2.js
