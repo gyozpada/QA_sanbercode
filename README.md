@@ -13,6 +13,21 @@ Installation
 - npm install
 - npm install prompt-sync
 
+if you have error like :
+```javascript
+SyntaxError: Cannot use import statement outside a module
+```
+
+add "type": "module" to your package.json file.
+```
+{
+  // ...
+  "type": "module",
+  // ...
+}
+
+```
+
 How to run
 
 - node soal1.js
