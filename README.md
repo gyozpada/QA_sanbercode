@@ -36,7 +36,7 @@ How to run
 
 Expected Result :
 - soal1.js
-
+![alt text](https://github.com/gyozpada/QA_sanbercode-tugas3javascript/blob/master/images/soal1.png?raw=true)
 
 
 - soal2.js
