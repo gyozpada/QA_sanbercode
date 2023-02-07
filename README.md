@@ -40,3 +40,4 @@ Expected Result :
 
 
 - soal2.js
+![alt text](https://github.com/gyozpada/QA_sanbercode-tugas3javascript/blob/master/images/soal2.png?raw=true)
